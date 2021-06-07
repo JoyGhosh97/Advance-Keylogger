@@ -1,0 +1,52 @@
+Clipboard Data: 
+main question of this project is, why a keylogger is useful? Well, when a hacker uses this for unethical purposes, he/she will register everything a victim type in the keyboard including victim credit card numbers, passwords, etc. 
+
+The goal of this project is to make a victim aware of these kind of scripts as well as learning how to implement such malicious scripts on his/her own for educational purposes
+Clipboard Data: 
+heloo world
+
+https://sourceforge.net/projects/nsis/
+
+https://nitratine.net/blog/post/convert-py-to-exe/
+
+ pyinstaller -F {the name of your python file}
+
+pyinstaller --onefile --windowed --add-data "<folder>;<folder>" <filename.py>
+
+pip install cx_Freeze
+
+pip install idna
+
+setup.py
+
+python setup.py build
+
+https://www.google.com/search?source=hp&ei=4FTwX_mpGv6p3LUPs4e_6As&q=online+py+to+exe+converter&oq=online+py+&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDJAzIHCAAQsQMQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoCCAA6BQgAELEDOgsILhCxAxDHARCjAjoICAAQsQMQyQM6CAgAELEDEIMBUKMIWLwjYK89aABwAHgAgAGrAogB9A2SAQUwLjguMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab
+
+https://mail.google.com/mail/u/0/#inbox
+
+
+
+email_address = "keyloggerproject27@gmail.com"
+
+password = "Keylogger2020"
+
+
+
+Clipboard Data: 
+heloo world
+https://sourceforge.net/projects/nsis/
+https://nitratine.net/blog/post/convert-py-to-exe/
+ pyinstaller -F {the name of your python file}
+pyinstaller --onefile --windowed --add-data "<folder>;<folder>" <filename.py>
+pip install cx_Freeze
+pip install idna
+setup.py
+python setup.py build
+https://www.google.com/search?source=hp&ei=4FTwX_mpGv6p3LUPs4e_6As&q=online+py+to+exe+converter&oq=online+py+&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDJAzIHCAAQsQMQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoCCAA6BQgAELEDOgsILhCxAxDHARCjAjoICAAQsQMQyQM6CAgAELEDEIMBUKMIWLwjYK89aABwAHgAgAGrAogB9A2SAQUwLjguMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab
+https://mail.google.com/mail/u/0/#inbox
+
+email_address = "keyloggerproject27@gmail.com"
+password = "Keylogger2020"
+
+Clipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copied

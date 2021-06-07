@@ -1,0 +1,18 @@
+Public IP Address: 103.25.123.132
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.18362
+Machine: DESKTOP-693OJE6
+Hostname: DESKTOP-693OJE6
+Private IP Address: 192.168.56.1
+Public IP Address: 103.25.123.133
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.18362
+Machine: DESKTOP-693OJE6
+Hostname: DESKTOP-693OJE6
+Private IP Address: 192.168.56.1
+Public IP Address: 103.25.123.129
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.18362
+Machine: DESKTOP-693OJE6
+Hostname: DESKTOP-693OJE6
+Private IP Address: 192.168.56.1
